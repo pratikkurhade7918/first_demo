@@ -1,3 +1,3 @@
 # first_demo
 first repository
-created by - Pratik
+created by - Pratik Kurhade git 
